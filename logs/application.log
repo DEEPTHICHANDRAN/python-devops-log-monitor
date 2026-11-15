@@ -1,0 +1,7 @@
+2026-11-16 08:00:01 INFO Application started
+2026-11-16 08:01:12 INFO Database connection successful
+2026-11-16 08:02:45 WARNING Disk usage reached 75 percent
+2026-11-16 08:03:10 ERROR Failed to process customer request
+2026-11-16 08:04:22 INFO Health check passed
+2026-11-16 08:05:31 WARNING API response time is high
+2026-11-16 08:06:02 ERROR Database query timed out
